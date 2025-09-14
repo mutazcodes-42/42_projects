@@ -6,16 +6,16 @@
 /*   By: malfarah <malfarah@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/09/10 14:04:54 by malfarah          #+#    #+#             */
-/*   Updated: 2025/09/11 17:37:10 by malfarah         ###   ########.fr       */
+/*   Updated: 2025/09/14 17:13:06 by malfarah         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 
-# include <stdio.h>
-# include <stdlib.h>
-# include <string.h>
+// # include <stdio.h>
+// # include <stdlib.h>
+// # include <string.h>
 # include <unistd.h>
 # include <stdarg.h>
 
